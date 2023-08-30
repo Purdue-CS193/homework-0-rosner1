@@ -1,7 +1,8 @@
-## Jonah Rosner
-- he/him/his
-- Purdue 2027
-- Colts and Pacers
+## Jonah Rosner's First CS 193 Homework
+# Favorite Parts of CS 193
+- The course leads seem cool
+- I think I'll enjoy the content
+- Some of my friends are in the same lecture
 
 
 
